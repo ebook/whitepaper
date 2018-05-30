@@ -2,7 +2,7 @@
 ## <div align=center>实体数字化样本</div>
 ### <div align=center>v1.0</div>
 
-#### <div align=center><img src="./images/fisco.png" width = "256" height = "59" ></div>
+#### <div align=center><img src="./images/logo.png" width = "256" height = "59" ></div>
 ### <div align=center>**Github**:[Https://github.com/wabei](Https://github.com/wabei)</div>
 
 ### <div align=center>2018年5月</div>
