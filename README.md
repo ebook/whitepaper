@@ -1,5 +1,5 @@
 # <div align=center>**瓦贝共享公有区块链平台白皮书**</div>
-# <div align=center>**wabei sharely public block chain whitepaper**</div>
+# <div align=center>**Wabei Sharely Public Block Chain**</div>
 ## <div align=center>实体数字化样本</div>
 ### <div align=center>v1.0</div>
 
